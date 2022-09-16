@@ -4,6 +4,6 @@
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("An example github repository.");
+        System.out.println("A super example github repository.");
     }
 }
